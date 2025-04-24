@@ -97,4 +97,22 @@ CREATE TABLE IF NOT EXISTS contact_messages (
 
 - If you encounter database connection issues, check your MySQL credentials in `config.php`
 - Make sure XAMPP services are running before accessing the website
-- Check file permissions if you encounter any file access issues 
+- Check file permissions if you encounter any file access issues
+
+**Screen shots**
+
+![Screenshot 2025-04-23 103927](https://github.com/user-attachments/assets/17c42727-a53a-4209-bd5a-50923f151fb4)
+
+![Screenshot 2025-04-23 105413](https://github.com/user-attachments/assets/bbc7a03f-8aee-442d-a924-9a304bc96e7b)
+
+![Screenshot 2025-04-23 105610](https://github.com/user-attachments/assets/38023424-30aa-4ccb-8240-ed4b3861fa35)
+
+![Screenshot 2025-04-23 105749](https://github.com/user-attachments/assets/60a106b0-afe0-45fa-9c3a-0ed8416d76cf)
+
+**Admin Panel**
+![Screenshot 2025-04-23 105855](https://github.com/user-attachments/assets/5fa824b9-49d7-4999-a016-13a90e9c42d3)
+
+
+
+
+
